@@ -2,6 +2,8 @@ package classes;
 
 import java.io.IOException;
 
+import classes.superclasses.API;
+
 public class GeckoAPITests extends API{
     
     public GeckoAPITests() {

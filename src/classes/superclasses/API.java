@@ -1,4 +1,4 @@
-package classes;
+package classes.superclasses;
 
 import java.io.IOException;
 import java.net.URI;

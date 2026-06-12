@@ -2,6 +2,10 @@ package classes;
 
 import java.io.IOException;
 
+import com.google.gson.annotations.SerializedName;
+
+import classes.superclasses.API;
+
 public class BooksAPITests extends API {
 
     public BooksAPITests(){
